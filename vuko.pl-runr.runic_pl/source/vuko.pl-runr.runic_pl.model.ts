@@ -1,8 +1,5 @@
 /*
-  Runic Polish lexical model (user's phonetic runic alphabet, see runic-polish skill).
-
-  Paste this into the model definition file created by Keyman Developer
-  (Step 2 of the tutorial), replacing its contents, and keep wordlist.tsv next to it.
+  Runic Polish lexical model.
 */
 
 const source: LexicalModelSource = {

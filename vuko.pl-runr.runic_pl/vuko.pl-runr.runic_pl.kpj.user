@@ -37,6 +37,10 @@
     <FileState>
       <ID>id_aab9b29521b3dfbbb05657d92f989afb</ID>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
       <Debug>False</Debug>
       <TestKeyboard></TestKeyboard>
     </FileState>
@@ -64,6 +68,12 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>vuko.pl-runr.runic_pl.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>wordlist.tsv</Filename>
       <FileType>.tsv</FileType>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\wordlist.tsv</FullPath>
