@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\plrunic.kpj</path>
+    <file ID="id_bc584c43ca22d368d7459026a480c492" Expanded="1"/>
+    <file ID="id_801afd35e578a937318f31f0bc8b9371" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_cff960f745c72ccb4851bb74c828e7c4</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\plrunic.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_849b58e8bccc3e9f3ca7791143cebab4</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\plrunic.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_191403b1b17313d8b04c128144cbe295</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\nieFUTARK.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_eb282b5e5e6ac74628d96b4e77bcaa9b</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrn.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_182aa02f892a3a5f4839fbdce04e392f</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bf90a6dc9732cf1f0a4606953be85151</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bc584c43ca22d368d7459026a480c492</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <DisplayMapFont>Consolas|-9|   |0</DisplayMapFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_801afd35e578a937318f31f0bc8b9371</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_995f3724f4d5c1320e645ce15c389267</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8eb16415d4e84d195ba866bb39edd9bb</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\..\build\plrunic.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9dab1828e6df4dfc182839d0fbcc61f7</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\..\build\plrunic.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_cfd2cab81a7369a5d889f93b9d83cc16</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\..\build\plrunic.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>plrunic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>plrunic.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic_fixed_longpress\source\plrunic.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>plrunic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Grzegorz\Desktop\plrunic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>plrunic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic\source\plrunic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>plrunic.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic\source\plrunic.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>plrunic.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic\build\plrunic.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>plrunic.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic\build\plrunic.js</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>LICENSE.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\Grzegorz\Documents\Keyman Developer\Projects\plrunic\LICENSE.md</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
