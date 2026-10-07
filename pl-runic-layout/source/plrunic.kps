@@ -2,7 +2,7 @@
 <Package>
   <System>
     <KeymanDeveloperVersion>18.0.252.0</KeymanDeveloperVersion>
-    <FileVersion>12.0</FileVersion>
+    <FileVersion>7.0</FileVersion>
   </System>
   <Options>
     <ExecuteProgram></ExecuteProgram>
@@ -74,12 +74,6 @@ It is made for fun and it won't be usefull for anyone beside me, propably.</Desc
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
-    <File>
-      <Name>..\..\vuko.pl-runr.runic_pl\build\vuko.pl-runr.runic_pl.model.js</Name>
-      <Description>File vuko.pl-runr.runic_pl.model.js</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.js</FileType>
-    </File>
   </Files>
   <Keyboards>
     <Keyboard>
@@ -91,13 +85,5 @@ It is made for fun and it won't be usefull for anyone beside me, propably.</Desc
       </Languages>
     </Keyboard>
   </Keyboards>
-  <LexicalModels>
-    <LexicalModel>
-      <ID>vuko.pl-runr.runic_pl</ID>
-      <Languages>
-        <Language ID="pl-Runr">Polish (Runic)</Language>
-      </Languages>
-    </LexicalModel>
-  </LexicalModels>
   <Strings/>
 </Package>

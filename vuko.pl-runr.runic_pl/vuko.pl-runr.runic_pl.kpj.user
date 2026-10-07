@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>2</tab>
+    <tab>4</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\vuko.pl-runr.runic_pl.kpj</path>
   </ViewState>
@@ -33,6 +33,10 @@
     <FileState>
       <ID>id_bd236ab38e811a5954fce03d6d3a23b8</ID>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_aab9b29521b3dfbbb05657d92f989afb</ID>
@@ -68,12 +72,18 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>vuko.pl-runr.runic_pl.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>vuko.pl-runr.runic_pl.model.ts</Filename>
       <FileType>.ts</FileType>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.ts</FullPath>
     </File>
     <File>
-      <ID>id_MRU1</ID>
+      <ID>id_MRU2</ID>
       <Filename>wordlist.tsv</Filename>
       <FileType>.tsv</FileType>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\wordlist.tsv</FullPath>
