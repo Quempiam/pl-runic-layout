@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>4</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\vuko.pl-runr.runic_pl.kpj</path>
+    <file ID="id_bd236ab38e811a5954fce03d6d3a23b8" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
@@ -29,6 +30,20 @@
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_2e78b2cf55da62ff6786926dcc91f578</ID>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\runic_pl.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
     </FileState>
     <FileState>
       <ID>id_bd236ab38e811a5954fce03d6d3a23b8</ID>
@@ -51,6 +66,18 @@
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_023390c81b6879585731581642f68491</ID>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\wordlist.full.tsv</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f94c550d3774f301c8913a9edcbb2dc9</ID>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\wordlist.lite.tsv</FullPath>
     </FileState>
     <FileState>
       <ID>id_89f63b613fd4156e39e15a1786b03708</ID>
@@ -78,12 +105,36 @@
     </File>
     <File>
       <ID>id_MRU1</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\readme.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
       <Filename>vuko.pl-runr.runic_pl.model.ts</Filename>
       <FileType>.ts</FileType>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\vuko.pl-runr.runic_pl.model.ts</FullPath>
     </File>
     <File>
-      <ID>id_MRU2</ID>
+      <ID>id_MRU4</ID>
+      <Filename>runic_pl.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\runic_pl.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>vuko.pl-runr.runic_pl.model.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\build\vuko.pl-runr.runic_pl.model.js</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
       <Filename>wordlist.tsv</Filename>
       <FileType>.tsv</FileType>
       <FullPath>C:\Users\grzeg\Documents\Keyman Developer\Projects\vuko.pl-runr.runic_pl\source\wordlist.tsv</FullPath>

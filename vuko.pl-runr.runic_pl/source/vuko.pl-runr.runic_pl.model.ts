@@ -1,5 +1,5 @@
 /*
-  Runic Polish lexical model.
+  Runic Polish lexical model. Runr hints
 */
 
 const source: LexicalModelSource = {
@@ -31,11 +31,13 @@ const source: LexicalModelSource = {
   },
 
   // Typo-tolerant keys: the same function runs on the wordlist and on typed input,
-  // so a typed ᚼ (U+16BC) still matches ᛡ (ń), and Latin K/k or Cyrillic к still match К (ć).
+  // so a typed ᚼ (U+16BC) still matches ᛡ (ń), Latin K/k or Cyrillic к still match К (ć),
+  // and ᚣ (U+16A3, the original form of y) matches ᚤ (U+16A4).
   searchTermToKey: function (term: string): string {
     return term
       .normalize('NFKD')
       .replace(/\u16BC/g, '\u16E1')
+      .replace(/\u16A3/g, '\u16A4')
       .replace(/[KkкК]/g, '\u041A');
   },
 };

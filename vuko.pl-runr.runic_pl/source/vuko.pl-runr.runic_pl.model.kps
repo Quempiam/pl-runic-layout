@@ -17,11 +17,11 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">runic_pl</Name>
+    <Name URL="">runic_pl_runr</Name>
     <Copyright URL="">Copyright © Vuko</Copyright>
     <Author URL="">Vuko</Author>
-    <Version URL="">1.0</Version>
-    <Description URL="">Polish runic lex model</Description>
+    <Version URL="">1.2</Version>
+    <Description URL="">Polish runic lex model. Runic hints</Description>
   </Info>
   <Files>
     <File>
