@@ -337,7 +337,7 @@ function Keyboard_plrunic()
                 "id": "K_C",
                 "text": "ᚴ",
                 "width": "110",
-                "hint": "Кᛢ",
+                "hint": "Кę",
                 "sk": [
                   {
                     "text": "К",
