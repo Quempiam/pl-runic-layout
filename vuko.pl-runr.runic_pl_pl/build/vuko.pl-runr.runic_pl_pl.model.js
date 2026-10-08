@@ -7,10 +7,10 @@ var RUNIC_DATA = "ᛡᛁᛖ\t8583207\tnie\nᛏᛟ\t6394833\tto\nᛋᛁᛖᛜ\t51
 
 /*
   Runic Polish model with POLISH suggestion labels and RUNIC insertion.
-
+ 
   You type runes; the suggestion bar shows the Polish word (e.g. "dźwięk");
   tapping it inserts the runic spelling (ᛯᛝᛖᛜᚲ).
-
+ 
   Compiled together with runic_display_data.ts (see runic_pl_display.model.ts).
   Not type-checked at compile time (Keyman only transpiles it), so keep it plain.
 */
@@ -19,11 +19,14 @@ var RUNIC_DATA = "ᛡᛁᛖ\t8583207\tnie\nᛏᛟ\t6394833\tto\nᛋᛁᛖᛜ\t51
 //         (this is what I believe Keyman expects).
 // 'pre' : relative to the context BEFORE the keystroke.
 // Symptom of the wrong choice: one stray rune left behind, or one rune too many deleted.
-var SUGGESTION_RELATIVE_TO = 'post';
+var SUGGESTION_RELATIVE_TO = 'pre';
 // Keyman should append punctuation.insertAfterWord (a space) itself.
 // Symptom of the wrong choice: no space after a tapped suggestion, or two spaces.
 var ADD_SPACE_MYSELF = false;
 // ---------------------------------------------------------------------------------
+// Diagnostics: leave both empty for normal use. See README_diagnostyka in the chat.
+var DEBUG_LABEL_PREFIX = ''; // e.g. 'PL:' -> bar shows "PL:nie" if displayAs is honoured
+var DEBUG_INSERT_SUFFIX = ''; // e.g. '#'   -> tapping inserts runes + '#' if THIS model is used
 var MAX_SUGGESTIONS = 4;
 // Runes of the system: runic letters, ᛯ (U+16EF), Cyrillic К/к (ć), ⫯ (ż/rz)
 var RUNE_TAIL = /[\u16A0-\u16EA\u16EF\u041A\u043A\u2AEF]+$/;
@@ -128,10 +131,10 @@ var RunicDisplayModel = /** @class */ (function () {
         return best.map(function (i) { return ({
             sample: {
                 transform: {
-                    insert: _this.runes[i] + (ADD_SPACE_MYSELF ? ' ' : ''),
+                    insert: _this.runes[i] + DEBUG_INSERT_SUFFIX + (ADD_SPACE_MYSELF ? ' ' : ''),
                     deleteLeft: del
                 },
-                displayAs: _this.labels[i]
+                displayAs: DEBUG_LABEL_PREFIX + _this.labels[i]
             },
             p: _this.counts[i] / total
         }); });
