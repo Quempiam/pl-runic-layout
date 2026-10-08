@@ -1,0 +1,14 @@
+# Valid Polish words that look like diacritic-less typos of a much more frequent word.
+# They are exempt from the "missing Polish diacritics" filter. One word per line.
+wiec      # rally / meeting (vs. więc)
+piec      # oven, to bake (vs. pięć)
+dal       # distance (vs. dał)
+cale      # inches (vs. całe)
+tedy      # archaic "thus" (vs. tędy)
+wole      # oxen (vs. wolę)
+bron      # (vs. broń)
+kolo      # colloquial "guy" (vs. koło)
+stal      # steel (vs. stał)
+sad       # orchard (vs. sąd)
+mila      # mile (vs. miła)
+ramie     # (vs. ramię)
