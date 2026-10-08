@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\vuko.pl-runr-001.runr_hints.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_965c7608440cdaf7c0265e8016618d18</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\vuko.pl-runr-001.runr_hints.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_576dbb35e92fc668c2b8cf7af3216175</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\vuko.pl-runr-001.runr_hints.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_2e78b2cf55da62ff6786926dcc91f578</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\runic_pl.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_8789f28c3352d4e5d801b41d375edbee</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\vuko.pl-runr-001.runr_hints.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_1d68ca9ed61149868ca851ec8859f3bf</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\vuko.pl-runr-001.runr_hints.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_89f63b613fd4156e39e15a1786b03708</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\wordlist.tsv</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ce31cb431025a2927c80ff550b2f3847</ID>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\..\build\vuko.pl-runr-001.runr_hints.model.js</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>vuko.pl-runr-001.runr_hints.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\vuko.pl-runr-001.runr_hints.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>vuko.pl-runr-001.runr_hints.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\Grzegorz\Desktop\pl-runr-keyman\src\vuko.pl-runr-001.runr_hints\source\vuko.pl-runr-001.runr_hints.model.ts</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
