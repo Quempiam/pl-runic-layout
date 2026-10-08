@@ -104,12 +104,12 @@ function Keyboard_plrunic()
                 "text": "/",
                 "width": "110",
                 "hint": "\\",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "\\",
                     "id": "K_BKSLASH"
                   }
-                ]
+                }
               },
               {
                 "id": "T_new_11256",
@@ -146,24 +146,24 @@ function Keyboard_plrunic()
                 "text": "ᛏ",
                 "width": "110",
                 "hint": "ᚦ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᚦ",
                     "id": "U_16A6"
                   }
-                ]
+                }
               },
               {
                 "id": "K_Y",
                 "text": "ᚤ",
                 "width": "110",
                 "hint": "ᚣ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᚣ",
                     "id": "U_16A3"
                   }
-                ]
+                }
               },
               {
                 "id": "K_U",
@@ -190,12 +190,12 @@ function Keyboard_plrunic()
                 "text": "[",
                 "width": "110",
                 "hint": "]",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "]",
                     "id": "K_RBRKT"
                   }
-                ]
+                }
               },
               {
                 "id": "T_new_11058",
@@ -210,7 +210,13 @@ function Keyboard_plrunic()
               {
                 "id": "T_new_3947",
                 "width": "110",
-                "sp": "10"
+                "sp": "10",
+                "flick": {
+                  "n": {
+                    "text": "🟙",
+                    "id": "U_1F7C7"
+                  }
+                }
               },
               {
                 "id": "K_A",
@@ -222,16 +228,16 @@ function Keyboard_plrunic()
                 "text": "ᛊ",
                 "width": "110",
                 "hint": "ᛋᛇ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᛋ",
                     "id": "U_16CB"
                   },
-                  {
+                  "s": {
                     "text": "ᛇ",
                     "id": "U_16C7"
                   }
-                ]
+                }
               },
               {
                 "id": "K_D",
@@ -251,7 +257,21 @@ function Keyboard_plrunic()
                     "text": "ᚸ",
                     "id": "U_16B8"
                   }
-                ]
+                ],
+                "flick": {
+                  "n": {
+                    "text": "ᛯ",
+                    "id": "U_16EF"
+                  },
+                  "w": {
+                    "text": "ᛥ",
+                    "id": "U_16E5"
+                  },
+                  "e": {
+                    "text": "ᚸ",
+                    "id": "U_16B8"
+                  }
+                }
               },
               {
                 "id": "K_F",
@@ -283,24 +303,24 @@ function Keyboard_plrunic()
                 "text": "ᛚ",
                 "width": "110",
                 "hint": "ᚹ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᚹ",
                     "id": "U_16B9"
                   }
-                ]
+                }
               },
               {
                 "id": "U_201E",
                 "text": "„",
                 "width": "110",
                 "hint": "”",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "”",
                     "id": "U_201D"
                   }
-                ]
+                }
               },
               {
                 "id": "T_new_11156",
@@ -313,41 +333,41 @@ function Keyboard_plrunic()
             "id": "4",
             "key": [
               {
-                "id": "T_new_4103",
-                "width": "235",
+                "id": "T_new_638",
+                "width": "110",
                 "sp": "10"
               },
               {
                 "id": "K_Z",
                 "text": "ᛉ",
                 "width": "110",
-                "hint": "ᛠ⫯",
-                "sk": [
-                  {
+                "hint": "ᛠż",
+                "flick": {
+                  "n": {
                     "text": "ᛠ",
                     "id": "U_16E0"
                   },
-                  {
-                    "text": "⫯",
+                  "s": {
+                    "text": "ż",
                     "id": "U_2AEF"
                   }
-                ]
+                }
               },
               {
                 "id": "K_C",
                 "text": "ᚴ",
                 "width": "110",
-                "hint": "Кę",
-                "sk": [
-                  {
-                    "text": "К",
+                "hint": "ćę",
+                "flick": {
+                  "n": {
+                    "text": "ć",
                     "id": "U_041A"
                   },
-                  {
-                    "text": "ᛢ",
+                  "s": {
+                    "text": "ę",
                     "id": "U_16E2"
                   }
-                ]
+                }
               },
               {
                 "id": "K_B",
@@ -359,12 +379,12 @@ function Keyboard_plrunic()
                 "text": "ᚾ",
                 "width": "110",
                 "hint": "ᛡ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᛡ",
                     "id": "U_16E1"
                   }
-                ]
+                }
               },
               {
                 "id": "U_16DC",
@@ -377,32 +397,89 @@ function Keyboard_plrunic()
                 "width": "110"
               },
               {
-                "id": "U_16EC",
-                "text": "᛬",
+                "id": "U_002D",
+                "text": "-",
                 "width": "110",
-                "hint": "᛫᛭",
-                "sk": [
-                  {
+                "hint": "᛬᛫᛭@#",
+                "flick": {
+                  "n": {
                     "text": "᛫",
                     "id": "U_16EB"
                   },
-                  {
+                  "s": {
                     "text": "᛭",
                     "id": "U_16ED"
+                  },
+                  "w": {
+                    "text": "᛬",
+                    "id": "U_16EC"
+                  },
+                  "e": {
+                    "text": "@",
+                    "id": "U_0040"
+                  },
+                  "se": {
+                    "text": "#",
+                    "id": "U_0023"
+                  },
+                  "sw": {
+                    "text": "_",
+                    "id": "U_005F"
                   }
-                ]
+                }
               },
               {
                 "id": "U_15D5",
                 "text": "ᗕ",
                 "width": "110",
                 "hint": "ᗒ",
-                "sk": [
-                  {
+                "flick": {
+                  "n": {
                     "text": "ᗒ",
                     "id": "U_15D2"
                   }
-                ]
+                }
+              },
+              {
+                "id": "U_1D25",
+                "text": "ᴥ",
+                "width": "110",
+                "sp": "10",
+                "hint": "ᦽ",
+                "flick": {
+                  "s": {
+                    "text": "͜",
+                    "id": "U_035C"
+                  },
+                  "w": {
+                    "text": "͡",
+                    "id": "U_0361"
+                  },
+                  "sw": {
+                    "text": "ಠ",
+                    "id": "U_0CA0"
+                  },
+                  "e": {
+                    "text": "◕",
+                    "id": "U_25D5"
+                  },
+                  "se": {
+                    "text": "ʖ",
+                    "id": "U_0296"
+                  },
+                  "n": {
+                    "text": "°",
+                    "id": "U_00B0"
+                  },
+                  "ne": {
+                    "text": "ᦽ",
+                    "id": "U_19BD"
+                  },
+                  "nw": {
+                    "text": "つ",
+                    "id": "U_3064"
+                  }
+                }
               },
               {
                 "id": "K_BKSP",
@@ -447,7 +524,25 @@ function Keyboard_plrunic()
                     "text": "!",
                     "id": "U_0021"
                   }
-                ]
+                ],
+                "flick": {
+                  "w": {
+                    "text": "¿",
+                    "id": "U_00BF"
+                  },
+                  "e": {
+                    "text": "?",
+                    "id": "U_003F"
+                  },
+                  "n": {
+                    "text": "¡",
+                    "id": "U_00A1"
+                  },
+                  "s": {
+                    "text": "!",
+                    "id": "U_0021"
+                  }
+                }
               },
               {
                 "id": "K_ENTER",
