@@ -17,7 +17,7 @@ Both does the same, they are just visual differences. Keyman does see them separ
 
 Runes meaning
 -----------
-See [phones-table.md](.phones-table.md) (polish)
+See [phones-table.md](phones-table.md) (polish)
 
 The first idea
 -----------
@@ -38,7 +38,7 @@ Of course, no one will actually use this writing system—just as English won't 
 
 I utilized the Elder ᚠᚢᚦᚨᚱᚲ, a few Saxon runes, and custom variants shown on the ancient tablet below. 
 
-[![Ancient tablet found under my bed](.ancient_tablet.jpeg)]
+[![Ancient tablet found under my bed](ancient_tablet.jpeg)]
 
 Later, when I decided to digitize the project, those extra glyphs proved problematic, so I had to replace them with similar Unicode characters. The result is acceptable (ᛉᚾᛟᛋᚾᚤ) to me.
 
